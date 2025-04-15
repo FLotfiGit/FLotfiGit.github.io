@@ -8,7 +8,11 @@ redirect_from:
 ---  
 Welcome to my personal website!
 
-I am currently a Ph.D. student in the [Holcombe Department of Electrical and Computer Engineering](https://www.clemson.edu/cecas/departments/ece/) at [Clemson University](https://www.clemson.edu/) under supervision of [Dr. Fatemeh Afghah](https://fafghah.people.clemson.edu/). I was a research assistant in the [College of Engineering and Applied Science](https://eas.uccs.edu/ece) at [University of Colorado Colorado Springs](https://www.uccs.edu/) from Jan. 2021 to Aug 2022. I received my M.Sc. and B.Sc. degrees in Electrical Engineering from the [University of Tehran](https://ut.ac.ir/en) and the [Iran university of Science and Technology](http://www.iust.ac.ir/en), respectively. 
+I am a Ph.D. candidate in the [Holcombe Department of Electrical and Computer Engineering](https://www.clemson.edu/cecas/departments/ece/) at [Clemson University](https://www.clemson.edu/) under supervision of [Dr. Fatemeh Afghah](https://fafghah.people.clemson.edu/). My research focuses on artificial intelligence and deep reinforcement learning for dynamic optimization in wireless communication systems, particularly Open RAN and multi-agent environments.
+
+Prior to joining Clemson, I was a research assistant in the [College of Engineering and Applied Science](https://eas.uccs.edu/ece) at [University of Colorado Colorado Springs](https://www.uccs.edu/), where I worked on semantic-aware reinforcement learning for communication networks. I hold an M.Sc. in Electrical Engineering from the [University of Tehran](https://ut.ac.ir/en) and a B.Sc. from [Iran university of Science and Technology](http://www.iust.ac.ir/en).
+
+My work bridges theory and application—developing adaptive AI solutions that are robust, scalable, and grounded in real-world communication challenges.
 
 Research Interests
 ======
