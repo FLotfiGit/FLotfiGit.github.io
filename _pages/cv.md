@@ -9,6 +9,8 @@ redirect_from:
 
 You can download a pdf version of my CV [here](Fatemeh_CV.pdf).
 
+You can also upload a newer PDF named `Fatemeh_CV_2025.pdf` to the `_pages/` folder and this page will link to it.
+
 Education
 -----------
 **Clemson University**, Clemson, SC, USA (Aug 2022 -- Present)
