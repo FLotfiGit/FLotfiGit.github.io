@@ -25,6 +25,8 @@ Research Interests
 
 News
 ======
+* [2025 January] Our paper "LLM-Augmented Deep Reinforcement Learning for Dynamic O-RAN Network Slicing" has been accepted to IEEE ICC — SAC Machine Learning for Communications and Networking Track.
+* [2024 December] Our conference paper "Meta reinforcement learning approach for adaptive resource optimization in O-RAN" has been accepted to IEEE WCNC, Milan, Italy.
 * [2024 November] Passed **Ph.D. Comprehensive Exam**.
 * [2024 October] Our **Journal** paper on “[Joint path planning and power allocation of a cellular-connected UAV using apprenticeship learning via deep inverse reinforcement learning] ((https://www.sciencedirect.com/science/article/pii/S1389128624006212))” has been accepted to Computer Networks.
 * [2023 October] Presented **conference** paper "[Open RAN LSTM Traffic Prediction and Slice Management using Deep Reinforcement Learning] ((https://ieeexplore.ieee.org/abstract/document/10476972))" in "[IEEE 2023 Asilomar Conference on Signals, Systems, and Computers]((https://signalprocessingsociety.org/blog/acssc-2023-2023-asilomar-conference-signals-systems-and-computers))", Pacific Grove, CA, USA.
