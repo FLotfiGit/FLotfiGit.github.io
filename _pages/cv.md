@@ -39,8 +39,6 @@ Work experience
 Skills
 -----------
 
-| | |
-|---|---|
 - **Programming:** Python, MATLAB
 - **Deep Learning:** TensorFlow, PyTorch, Keras
 - **Data Science:** Pandas, NumPy, Scikit-Learn, Jupyter
