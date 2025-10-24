@@ -1,0 +1,37 @@
+/* Custom site styles added for Academic Service and Awards pages */
+
+/* Link color rules: IEEE links black, other external links use blue */
+.academic-service a.ieee-link {
+  color: #000000 !important;
+}
+.academic-service a {
+  color: #1a73e8;
+}
+
+/* Awards list styling */
+.award-item {
+  border-left: 4px solid #1a73e8;
+  padding: 0.5rem 1rem;
+  margin-bottom: 1rem;
+  background: rgba(26,115,232,0.04);
+  border-radius: 4px;
+}
+.award-title {
+  color: #0b5394;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+.award-meta {
+  color: #6b6b6b;
+  font-size: 0.95rem;
+  margin-bottom: 0.5rem;
+}
+.award-links a {
+  color: #1a73e8;
+  text-decoration: underline;
+}
+
+/* Small responsive tweak */
+@media (max-width: 640px) {
+  .award-item { padding: 0.5rem; }
+}
