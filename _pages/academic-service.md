@@ -4,11 +4,6 @@ title: "Academic service"
 permalink: /service/
 author_profile: true
 ---
-
-This page lists my academic and professional service contributions. If you want entries re-ordered or removed, tell me which ones to keep and I'll update.
-
-This page lists my academic and professional service contributions. If you'd like items reordered or removed, tell me which to keep and I'll update.
-
 Reviewer
 --------
 Regular reviewer for premier journals and conferences in machine learning, artificial intelligence, wireless communication, and computer vision, including:
