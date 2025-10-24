@@ -34,7 +34,6 @@ Regular reviewer for the following journals:
 - Elsevier Expert Systems with Applications
 - Elsevier Knowledge-Based Systems
 - Elsevier Engineering Applications of Artificial Intelligence
-- Elsevier Computers in Biology and Medicine
 - Elsevier International Journal of Engineering Science and Technology
 
 Professional memberships
