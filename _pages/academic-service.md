@@ -35,7 +35,6 @@ Regular reviewer for the following journals:
 - IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)
 - IEEE Communications Letters
 - IEEE Access
-- Elsevier Neurocomputing
 - Elsevier Pattern Recognition
 - Elsevier Expert Systems with Applications
 - Elsevier Knowledge-Based Systems
@@ -49,7 +48,7 @@ Professional memberships
 - IEEE Communications Society (ComSoc)
 - IEEE Women in Communications Engineering (WICE)
 - IEEE Young Professionals
-- ACM SIGKDD
+ - ACM SIGKDD
 
 Verification
 ------------
