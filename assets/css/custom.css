@@ -8,6 +8,14 @@
   color: #1a73e8;
 }
 
+/* Prefer CSS-based IEEE targeting so content remains simple Markdown */
+.academic-service a[href*="ieee"] {
+  color: #000000 !important;
+}
+.academic-service a[href*="ieeexplore"] {
+  color: #000000 !important;
+}
+
 /* Awards list styling */
 .award-item {
   border-left: 4px solid #1a73e8;
