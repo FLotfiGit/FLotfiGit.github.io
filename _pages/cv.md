@@ -39,9 +39,6 @@ Work experience
 Skills
 -----------
 
-Skills
------------
-
 | | |
 |---|---|
 | **Programming:** Python, MATLAB  <br> **Deep Learning:** TensorFlow, PyTorch, Keras  <br> **Data Science:** Pandas, NumPy, Scikit-Learn, Jupyter  <br> **Tools:** Git, Docker, OpenAI Gym, MATLAB Simulink  <br> **Scientific Writing & Visualization:** Matplotlib, LaTeX | **Machine Learning Domains:** Reinforcement Learning (DRL, MARL), Foundation Models, LLMs, Prompt Learning, Representation Learning, Transfer Learning  <br> **Mathematics:** Probability, Stochastic Processes, Statistics, Linear Algebra, Optimization  <br> **Soft Skills:** Collaboration, Communication, Adaptability, Leadership, Critical thinking |
