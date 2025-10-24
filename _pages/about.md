@@ -16,10 +16,11 @@ My work bridges theory and application—developing adaptive AI solutions that a
 
 Research Interests
 ======
-1. 5G, 6G 
-2. Wireless Communications
-3. AI/ ML in Wireless Networks
-4. Reinforcement Learning approach over Wireless Networks
+- **Artificial Intelligence for Wireless Communication Systems (5G/6G, O-RAN)**
+- **Multi-Agent and Deep Reinforcement Learning for Distributed Decision-Making**
+- **Foundation and Large Language Models for Adaptive Control and Resource Allocation**
+- **Meta-Learning, Transfer Learning, and Representation Learning**
+- **Multimodal Perception and Learning for Autonomous and Intelligent Systems**
 
 
 News
