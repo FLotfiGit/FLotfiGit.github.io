@@ -46,8 +46,6 @@ Professional memberships
  - ACM SIGKDD
 
 Verification
-------------
 
 Review records are available through the Web of Science Reviewer Recognition Service (Clarivate).
-
 If you'd like, I can add years for each journal-review role, add links (e.g., Clarivate verification link), or reformat this section into a two-column list for a tighter layout.
