@@ -5,8 +5,6 @@ permalink: /service/
 author_profile: true
 ---
 
-This page lists my academic and professional service contributions. I've kept entries concise so they're easy to scan and edit — tell me if you want years added or a different ordering.
-
 Reviewer
 --------
 
