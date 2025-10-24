@@ -44,6 +44,4 @@ Professional memberships
 - IEEE Young Professionals
  
 
-Verification
-
-Review records are available through the Web of Science Reviewer Recognition Service (Clarivate).
+ 
