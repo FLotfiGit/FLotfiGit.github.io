@@ -8,11 +8,12 @@ redirect_from:
 ---  
 Welcome to my personal website!
 
-I am a Ph.D. candidate in the [Holcombe Department of Electrical and Computer Engineering](https://www.clemson.edu/cecas/departments/ece/) at [Clemson University](https://www.clemson.edu/) under supervision of [Dr. Fatemeh Afghah](https://fafghah.people.clemson.edu/). My research focuses on artificial intelligence and deep reinforcement learning for dynamic optimization in wireless communication systems, particularly Open RAN and multi-agent environments.
+I am a Ph.D. graduate in the [Holcombe Department of Electrical and Computer Engineering](https://www.clemson.edu/cecas/departments/ece/) at [Clemson University](https://www.clemson.edu/) where I completed my dissertation under supervision of [Dr. Fatemeh Afghah](https://fafghah.people.clemson.edu/). My research focuses on artificial intelligence and deep reinforcement learning for dynamic optimization in wireless communication systems, particularly Open RAN, multi-agent learning, and LLM-augmented decision-making.
 
-Prior to joining Clemson, I was a research assistant in the [College of Engineering and Applied Science](https://eas.uccs.edu/ece) at [University of Colorado Colorado Springs](https://www.uccs.edu/), where I worked on semantic-aware reinforcement learning for communication networks. I hold an M.Sc. in Electrical Engineering from the [University of Tehran](https://ut.ac.ir/en) and a B.Sc. from [Iran university of Science and Technology](http://www.iust.ac.ir/en).
+Prior to joining Clemson, I was a research assistant in the [College of Engineering and Applied Science](https://eas.uccs.edu/ece) at [University of Colorado Colorado Springs](https://www.uccs.edu/), where I worked on semantic-aware reinforcement learning for communication networks. I hold an M.Sc. in Electrical Engineering from the [University of Tehran](https://ut.ac.ir/en) and a B.Sc. from [Iran University of Science and Technology](http://www.iust.ac.ir/en).
 
 My work bridges theory and application—developing adaptive AI solutions that are robust, scalable, and grounded in real-world communication challenges.
+
 
 Research Interests
 ======
