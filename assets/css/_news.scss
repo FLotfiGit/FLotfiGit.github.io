@@ -1,0 +1,45 @@
+/* News section styles */
+.news {
+  margin-top: 1.5rem;
+}
+.news-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.news-item {
+  display: block;
+  padding: 0.6rem 0.75rem;
+  margin-bottom: 0.5rem;
+  border-left: 6px solid transparent;
+  background: transparent;
+  border-radius: 6px;
+}
+.news-item .year {
+  font-weight: 700;
+  margin-right: 0.5rem;
+}
+
+/* category colors */
+.news--publication { border-left-color: #1E90FF; background: rgba(30,144,255,0.04); }
+.news--achievement { border-left-color: #2E8B57; background: rgba(46,139,87,0.04); }
+.news--milestone { border-left-color: #FF8C00; background: rgba(255,140,0,0.04); }
+.news--presentation { border-left-color: #8A2BE2; background: rgba(138,43,226,0.04); }
+.news--other { border-left-color: #6c757d; background: rgba(108,117,125,0.03); }
+
+/* small badge before item (optional) */
+.news-item::before {
+  content: '';
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin-right: 0.6rem;
+  vertical-align: middle;
+  border-radius: 50%;
+  background: transparent;
+}
+.news--publication::before { background: #1E90FF; }
+.news--achievement::before { background: #2E8B57; }
+.news--milestone::before { background: #FF8C00; }
+.news--presentation::before { background: #8A2BE2; }
+.news--other::before { background: #6c757d; }
