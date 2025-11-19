@@ -6,19 +6,6 @@
       <stop offset="100%" stop-color="#0066B3" />
     </linearGradient>
   </defs>
-
-  <!-- rounded square background -->
-  <rect width="128" height="128" rx="18" fill="url(#g)" />
-
-  <!-- house border: roof (triangle) and body (rounded rectangle) -->
-  <g transform="translate(12,18) scale(0.85)">
-    <!-- roof -->
-    <path d="M64 6 L6 46 H34 V98 H94 V46 H122 Z" fill="none" stroke="#ffffff" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" />
-    <!-- optional door notch (to make it look more house-like) -->
-    <rect x="58" y="66" width="12" height="22" rx="2" fill="#ffffff" opacity="0.0" />
-  </g>
-
-  <!-- initials inside the house -->
-  <text x="50%" y="60%" font-family="Inter, Arial, Helvetica, sans-serif" font-size="48" fill="#ffffff" font-weight="700" text-anchor="middle" dominant-baseline="middle">FL</text>
-
+  <rect width="128" height="128" rx="20" fill="url(#g)" />
+  <text x="50%" y="54%" font-family="Arial, Helvetica, sans-serif" font-size="64" fill="#ffffff" font-weight="700" text-anchor="middle" dominant-baseline="middle">FL</text>
 </svg>
