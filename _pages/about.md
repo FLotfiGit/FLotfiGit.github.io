@@ -25,8 +25,9 @@ Research Interests
 
 News
 ======
-* [2025 January] Our **conference** paper "[LLM-Augmented Deep Reinforcement Learning for Dynamic O-RAN Network Slicing]((https://ieeexplore.ieee.org/abstract/document/10978365/))" has been accepted to *IEEE ICC — SAC Machine Learning for Communications and Networking Track* at Montreal, Canada.
 * [2025 November] I successfully defended my **Ph.D.** in November 2025 — cheers to the next step!
+* [2025 November] Our **journal** paper "Task-Specific Sharpness-Aware O-RAN Resource Management using Multi-Agent Reinforcement Learning" has been accepted to *IEEE Transactions on Machine Learning in Communications and Networking (IEEE TMLCN).* 
+* [2025 January] Our **conference** paper "[LLM-Augmented Deep Reinforcement Learning for Dynamic O-RAN Network Slicing]((https://ieeexplore.ieee.org/abstract/document/10978365/))" has been accepted to *IEEE ICC — SAC Machine Learning for Communications and Networking Track* at Montreal, Canada.
 * [2024 December] Our **conference** paper "[Meta reinforcement learning approach for adaptive resource optimization in O-RAN]((https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eM8A4qEAAAAJ&sortby=pubdate&citation_for_view=eM8A4qEAAAAJ:0EnyYjriUFMC))" has been accepted to *IEEE WCNC* at Milan, Italy.
 * [2024 November] Passed **Ph.D. Comprehensive Exam**.
 * [2024 October] Our **Journal** paper on “[Joint path planning and power allocation of a cellular-connected UAV using apprenticeship learning via deep inverse reinforcement learning]((https://www.sciencedirect.com/science/article/pii/S1389128624006212))” has been accepted to *Computer Networks Journal*.
