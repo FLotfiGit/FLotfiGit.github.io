@@ -18,6 +18,8 @@ Research Interests
 - Multi-Agent and DRL
 - LLMs for Adaptive Control
 
+{% include repo-info.html %}
+
 News
 ======
 * 2026 January: Our conference paper accepted to IEEE ICASSP 2026.

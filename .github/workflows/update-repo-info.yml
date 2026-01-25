@@ -1,0 +1,42 @@
+name: Update Repository Info
+
+on:
+  push:
+    branches: [master, main]
+  schedule:
+    # Run daily at midnight UTC
+    - cron: '0 0 * * *'
+
+jobs:
+  update-repo-info:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Generate repository info
+        run: python3 update_info.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Check if there are changes to commit
+          if git diff --quiet _data/git_info.yml assets/git_info.json; then
+            echo "No changes to commit"
+          else
+            git add _data/git_info.yml assets/git_info.json
+            git commit -m "chore: update repository info [skip ci]" || true
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
