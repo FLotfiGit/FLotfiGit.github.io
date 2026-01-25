@@ -2,10 +2,11 @@
 permalink: /
 title: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
----  
+---
+
 Welcome to my personal website!
 
 I am a Ph.D. graduate in the [Holcombe Department of Electrical and Computer Engineering](https://www.clemson.edu/cecas/departments/ece/) at [Clemson University](https://www.clemson.edu/) where I completed my dissertation under supervision of [Dr. Fatemeh Afghah](https://fafghah.people.clemson.edu/). My research focuses on artificial intelligence and deep reinforcement learning for dynamic optimization in wireless communication systems, particularly Open RAN, multi-agent learning, and LLM-augmented decision-making.
