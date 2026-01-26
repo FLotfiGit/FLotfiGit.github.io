@@ -21,5 +21,6 @@ Research Interests
 News
 ======
 * 2026 January: Our conference paper accepted to IEEE ICASSP 2026.
+* 2026 January: Paper on deep reinforcement learning for wireless optimization accepted!
 * 2025 November: I successfully defended my Ph.D.
 * 2025 November: Our journal paper accepted to IEEE TMLCN.
