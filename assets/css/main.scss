@@ -1,4 +1,5 @@
 ---
+
 ---
 
 /*
@@ -8,7 +9,7 @@
  *  - mademistakes.com
  *  - https://twitter.com/mmistakes
  *
-*/
+ */
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
@@ -34,7 +35,7 @@
 @import "archive";
 @import "sidebar";
 
-@import "news";
+// @import "news";
 
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
