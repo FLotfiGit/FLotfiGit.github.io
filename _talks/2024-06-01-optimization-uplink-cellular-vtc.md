@@ -1,14 +1,17 @@
 ---
-title: Optimization of uplink cellular networks with flexible frame structure
-author: FLotfiGit
+title: Optimization of Uplink Cellular Networks with Flexible Frame Structure
 date: 2024-06-01
+author: FLotfiGit
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/examplevideo" frameborder="0" allowfullscreen></iframe>
+## Video Presentation
 
-## Abstract
-This page contains the abstract of our paper, which outlines the key findings and contributions.
+[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>)
 
-## References
-1. Author A. (2024). Optimization of uplink cellular networks with flexible frame structure. In Proceedings of the VTC 2024.
-2. Author B. (2023). Last year’s approach to cellular networks. Technical Journal, 55(3), 123-456.
+This page contains the recorded presentation of our paper "Optimization of uplink cellular networks with flexible frame structure."
+
+In this presentation, we discuss the key aspects of our research and the implications of our findings. Stay tuned for more updates on our work.
+
+### References
+
+- FLotfiGit, "Optimization of Uplink Cellular Networks with Flexible Frame Structure", Conference on Wireless and Optical Communications, 2024.
