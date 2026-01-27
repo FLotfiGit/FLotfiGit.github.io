@@ -28,8 +28,8 @@ News
 ======
 <div class="news" markdown="1">
 <ul class="news-list">
+   <li class="news-item news--publication"><span class="year">[2026 January]</span> Our **conference** paper "[Scalable LLM-Augmented DRL with Context-Aware Prompt Learning for O-RAN Slicing]" has been accepted at **ICASSP 2026**.</li>
   <li class="news-item news--milestone"><span class="year">[2025 November]</span> I successfully defended my **Ph.D.** in November 2025 — cheers to the next step!</li>
-  <li class="news-item news--publication"><span class="year">[2026 January]</span> Our **conference** paper "Scalable LLM-Augmented DRL with Context-Aware Prompt Learning for O-RAN Slicing" has been accepted at **ICASSP 2026**.</li>
   <li class="news-item news--publication"><span class="year">[2025 November]</span> Our **journal** paper "[Task-Specific Sharpness-Aware O-RAN Resource Management using Multi-Agent Reinforcement Lear[...]  
   <li class="news-item news--presentation"><span class="year">[2025 January]</span> Our **conference** paper "[LLM-Augmented Deep Reinforcement Learning for Dynamic O-RAN Network Slicing]((https://iee[...]  
   <li class="news-item news--presentation"><span class="year">[2024 December]</span> Our **conference** paper "[Meta reinforcement learning approach for adaptive resource optimization in O-RAN]((https[...]
