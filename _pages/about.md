@@ -57,11 +57,11 @@ redirect_from:
 
 Welcome to my personal website!
 
-I am a Ph.D. graduate in the <a href="https://www.clemson.edu/cecas/departments/ece/">Holcombe Department of Electrical and Computer Engineering</a> at <a href="https://www.clemson.edu/">Clemson University</a> where I completed my dissertation under supervision of <a href="https://fafghah.people.clemson.edu/">Dr. Fatemeh Afghah</a>. My research focuses on artificial intelligence and deep reinforcement learning for dynamic optimization in wireless communication systems, particularly Open RAN, multi-agent learning, and LLM-augmented decision-making.
+I am a Ph.D. researcher in artificial intelligence and learning-based systems, with expertise in reinforcement learning, foundation models, and adaptive decision-making for complex networked environments. My work focuses on designing robust and scalable AI frameworks for dynamic optimization, with particular emphasis on Open RAN architectures, multi-agent systems, and LLM-augmented control.
 
-Prior to joining Clemson, I was a research assistant in the <a href="https://eas.uccs.edu/ece">College of Engineering and Applied Science</a> at <a href="https://www.uccs.edu/">University of Colorado Colorado Springs</a>, where I worked on semantic-aware reinforcement learning for communication networks. I hold an M.Sc. in Electrical Engineering from the <a href="https://ut.ac.ir/en">University of Tehran</a> and a B.Sc. from <a href="http://www.iust.ac.ir/en">Iran University of Science and Technology</a>.
+I completed my Ph.D. in <a href="https://www.clemson.edu/cecas/departments/ece/">Holcombe Department of Electrical and Computer Engineering</a> at <a href="https://www.clemson.edu/">Clemson University</a>, where my research advanced optimization-aware and learning-driven methods for next-generation wireless systems. Previously, I conducted research at the <a href="https://eas.uccs.edu/ece">College of Engineering and Applied Science</a> at <a href="https://www.uccs.edu/">University of Colorado Colorado Springs</a> on semantic-aware reinforcement learning for communication networks. I hold an M.Sc. in Electrical Engineering from the <a href="https://ut.ac.ir/en">University of Tehran</a> and a B.Sc. from <a href="http://www.iust.ac.ir/en">Iran University of Science and Technology</a>.
 
-My work bridges theory and application—developing adaptive AI solutions that are robust, scalable, and grounded in real-world communication challenges.
+My research bridges theory and deployment—developing AI systems that integrate principled learning, interpretability, and real-world constraints. I am broadly interested in applying foundation and multimodal models to adaptive, data-driven decision-making in networked and cyber-physical systems.
 
 
 Research Interests
