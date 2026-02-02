@@ -61,7 +61,7 @@ I am a Ph.D. researcher in artificial intelligence and learning-based systems, w
 
 I completed my Ph.D. in <a href="https://www.clemson.edu/cecas/departments/ece/">Holcombe Department of Electrical and Computer Engineering</a> at <a href="https://www.clemson.edu/">Clemson University</a>, where my research advanced optimization-aware and learning-driven methods for next-generation wireless systems. Previously, I conducted research at the <a href="https://eas.uccs.edu/ece">College of Engineering and Applied Science</a> at <a href="https://www.uccs.edu/">University of Colorado Colorado Springs</a> on semantic-aware reinforcement learning for communication networks. I hold an M.Sc. in Electrical Engineering from the <a href="https://ut.ac.ir/en">University of Tehran</a> and a B.Sc. from <a href="http://www.iust.ac.ir/en">Iran University of Science and Technology</a>.
 
-My research bridges theory and deployment—developing AI systems that integrate principled learning, interpretability, and real-world constraints. I am broadly interested in applying foundation and multimodal models to adaptive, data-driven decision-making in networked and cyber-physical systems.
+My research bridges theory and deployment, developing AI systems that integrate principled learning, interpretability, and real-world constraints. I am broadly interested in applying foundation and multimodal models to adaptive, data-driven decision-making in networked and cyber-physical systems.
 
 
 Research Interests
