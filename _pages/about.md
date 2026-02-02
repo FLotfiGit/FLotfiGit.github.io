@@ -57,7 +57,7 @@ redirect_from:
 
 Welcome to my personal website!
 
-I am a Ph.D. researcher in artificial intelligence and learning-based systems, with expertise in reinforcement learning, foundation models, and adaptive decision-making for complex networked environments. My work focuses on designing robust and scalable AI frameworks for dynamic optimization, with particular emphasis on Open RAN architectures, multi-agent systems, and LLM-augmented control.
+I am a researcher in artificial intelligence and learning-based systems, with expertise in reinforcement learning, foundation models, and adaptive decision-making for complex networked environments. My work focuses on designing robust and scalable AI frameworks for dynamic optimization, with particular emphasis on Open RAN architectures, multi-agent systems, and LLM-augmented control.
 
 I completed my Ph.D. in <a href="https://www.clemson.edu/cecas/departments/ece/">Holcombe Department of Electrical and Computer Engineering</a> at <a href="https://www.clemson.edu/">Clemson University</a>, where my research advanced optimization-aware and learning-driven methods for next-generation wireless systems. Previously, I conducted research at the <a href="https://eas.uccs.edu/ece">College of Engineering and Applied Science</a> at <a href="https://www.uccs.edu/">University of Colorado Colorado Springs</a> on semantic-aware reinforcement learning for communication networks. I hold an M.Sc. in Electrical Engineering from the <a href="https://ut.ac.ir/en">University of Tehran</a> and a B.Sc. from <a href="http://www.iust.ac.ir/en">Iran University of Science and Technology</a>.
 
