@@ -13,11 +13,13 @@ location: "Virtual"
 
 **🔗 [Register for the Webinar →](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-january-28-2026)**
 
+**📺 [Watch the Recording on YouTube →](https://youtu.be/wAbGz6pqOZM)**
+
 ---
 
 ## About the Talk
 
-This talk explores the integration of Large Language Models with Reinforcement Learning to enable hybrid cognition in robotic systems. We will discuss how LLM-guided decision-making can enhance physical task execution, combining symbolic reasoning with learned policies for improved adaptability and generalization.
+This talk explores the integration of Large Language Models with Reinforcement Learning to enable hybrid cognition in robotic systems. We will discuss how LLM-guided decision-making can enhance physical interactions and decision-making in robotics.
 
 ---
 
